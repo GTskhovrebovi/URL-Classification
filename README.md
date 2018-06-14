@@ -29,7 +29,7 @@ tn:253161 fp:266
 fn:45 tp:8667
 
 
-Linear Support Vector Classification:
+Linear Support Vector Classification: (best)
 
 tn:253167 fp:170
 
