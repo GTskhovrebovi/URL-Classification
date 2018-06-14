@@ -7,7 +7,7 @@ Algorithms used:
 *	Linear Support Vector Classification
 *	Random forest classifier
 
-The system is presently working only on Lexical features:
+The system is working only on Lexical features:
 
 *	bag of words
 *	additional text features
