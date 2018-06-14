@@ -1,8 +1,16 @@
 # Phishing URL Classification
 
-Algorithms we are using in this system are :
+Algorithms used:
 
-[Random Forest] (https://en.wikipedia.org/wiki/Random_forest)
-[Logistic Regression] (https://en.wikipedia.org/wiki/Logistic_regression)
-[Decision Trees] (https://en.wikipedia.org/wiki/Decision+Trees)
-[Gradiant Boosting]
+*	Multinomial naive bayes classifier
+*	Logistic Regression classifier
+*	Linear Support Vector Classification
+*	Random forest classifier
+
+The system is presently working only on Lexical features:
+
+*	bag of words
+*	additional text features
+
+
+# results
