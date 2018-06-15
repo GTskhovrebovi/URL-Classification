@@ -15,6 +15,8 @@ The system is working only on Lexical features:
 
 # results
 
+on test set (20% of data)
+
 Multinomial naive bayes classifier:
 
 tn:252576 fp:1589
